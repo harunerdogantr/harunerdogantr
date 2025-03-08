@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨I am a web developer with 4 years of experience.<br>📚 I create responsive and custom web software with react.<br>🎯Let's move your business to virtual.<br>🎲 Fun fact: ...</p>
 
 ###
 
