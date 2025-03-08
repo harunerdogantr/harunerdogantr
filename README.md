@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Harun and I'm a UI/UX DESİGNER from TURKEY</p>
+<p align="left">My name is Harun and I'm a Front-End Developer from TURKEY</p>
 
 ###
 
